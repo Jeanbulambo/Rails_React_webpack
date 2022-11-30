@@ -1,50 +1,59 @@
-Hello Rails React
-This project helps to generate random greeting messages.
+![Microverse](https://img.shields.io/badge/-Microverse-%20%236f23ff?style=for-the-badge) 
 
-Built With
-Ruby on rails
-PostgreSql
-React / Redux
-Getting Started
-To get local copy up and running the application follow these simple steps:
 
-Prerequisites
-You need the following tools be installed in your computer:
+# Hello rails react
 
-Git
-Ruby
-Rails
-PostgreSql
-yarn
-Setup
-Download the Zip file or clone the repo with:
+> This is hello world" project as one app React and Rails with Webpack
 
+
+## Built With :
+
+- React on rais
+- React/Redux
+- PostgreSQL
+
+## Getting Started ➡️
+
+1. Clone the GitHub repository using the  this link 
+```
 https://github.com/Jeanbulambo/Rails_React_webpack.git
+```
+2. Checkout to the branch
+```
+$ git checkout dev
+```
+3. Run bundle install to install all gems required to run the app.
 
-To access the project directory cd hello-rails-react
+``` 
+4. Go to your terminal and run the app with the following command:
+```
+$ ./bin/dev
+```
+- **Navigate:** to http://localhost:3000/api/v1/messages 
 
-Install
-bundle install rails db:migrate
 
-To run the app locally in the browser use:
-rails s
-
-yarn build
-
-# Author
+## Author
 
 👤 **Jean Bulambo**
 
 - GitHub: [@Jeanbulambo](https://github.com/Jeanbulambo)
 - LinkedIn: [@Jeanbulambo](https://www.linkedin.com/in/jean-bulambo-20662a14a/)
   
-handshake Contributing
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-Show your support
-Give a star if you like this project!
+# Show your support
 
-memo License
-This project is MIT licensed.
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Original design idea by Nelson Sakwa on Behance.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
