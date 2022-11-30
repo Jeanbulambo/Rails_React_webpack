@@ -1,22 +1,46 @@
 ![Microverse](https://img.shields.io/badge/-Microverse-%20%236f23ff?style=for-the-badge) 
 
 
-# Hello rails react
+# Hello rails
 
-> This is hello world" project as one app React and Rails with Webpack
+> This is the hello world project as one app with Webpack
 
 
 ## Built With :
 
-- React on rais
-- React/Redux
-- PostgreSQL
+- **Ruby on Rails**
+
+- **React/Redux:**
+
+- **PostgreSQL**
+
+- **GitHub flow:**
+
+- **Linters Check (Rubocop)**
 
 ## Getting Started ➡️
 
+To get follow the following simple steps
+
+### Prerequisites ✅
+- A code editor like Visual Studio Code.
+- You can check if Git is installed by running the following command in the terminal: 
+
+```
+$ git --version
+```
+
+Likewise for Ruby installation.
+
+```
+$ ruby --version
+``` 
+
+### Setup
+
 1. Clone the GitHub repository using the  this link 
 ```
-https://github.com/Jeanbulambo/Rails_React_webpack.git
+  $ https://github.com/Jeanbulambo/Rails_React_webpack.git
 ```
 2. Checkout to the branch
 ```
@@ -27,9 +51,9 @@ $ git checkout dev
 ``` 
 4. Go to your terminal and run the app with the following command:
 ```
-$ ./bin/dev
+$ rails server
 ```
-- **Navigate:** to http://localhost:3000/api/v1/messages 
+- **Navigate:** to http://localhost:3000/ 
 
 
 ## Author
