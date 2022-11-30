@@ -95,10 +95,6 @@ $ rails server
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
 👤 **Author**
 
 - GitHub: [@Jeanbulambo](https://github.com/Jeanbulambo)
